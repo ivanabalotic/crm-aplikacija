@@ -1,0 +1,28 @@
+.funnel-chart-container {
+  display: block;
+  background-color: rgb(231, 231, 231);
+  padding: 20px;
+  width: 450px;
+}
+
+.funnel-chart-container > h5 {
+  text-align: center;
+  /* color: rgb(34, 34, 34); */
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+}
+
+.chart-legend {
+  margin-top: -120px;
+  display: block;
+  float: right;
+  font-size: 0.7rem;
+  font-weight: bold;
+  padding: 10px;
+  width: 170px;
+  background-color: rgb(252, 252, 252);
+}
+
+.header-placeholder {
+  width: 50px;
+}
